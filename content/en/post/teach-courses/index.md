@@ -1,7 +1,8 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
+title: 👩🏼‍🏫 Scikit-learn
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
+external_link: https://github.com/scikit-learn/scikit-learn
 math: true
 authors:
   - admin
@@ -9,6 +10,7 @@ tags:
   - Hugo
   - Hugo Blox Builder
   - Markdown
+  - CV Project
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

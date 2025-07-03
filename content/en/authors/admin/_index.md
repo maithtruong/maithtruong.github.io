@@ -100,34 +100,41 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#FDF0DS'
+    color_border: '#780000'
     items:
       - name: Playing the guitar
         description: ''
         percent: 60
-        icon: fa-solid fa-guitar
+        icon: guitar
 
 languages:
   - name: English
-    percent: 100
+#    percent: 100
   - name: German
-    percent: 30
+#    percent: 30
   - name: Vietnamese
-    percent: 100
+#    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Deep Learning
+    url: https://lms.aivietnam.edu.vn/verification/accomplishments/15003610
+    date: '2025-06-03'
+    awarder: AI VIET NAM
+    icon: ai-vn
+    summary: |
+      I learned about the architecture behind Deep Learning models such as MLP, CNN, RNN, LSTM, Transformer, GAN and Diffusion Models; techniques to improve model performance such as Transfer Learning, Model Compression and Data Augmentation.
   - title: Computer Vision and Natural Language Processing
     url: https://lms.aivietnam.edu.vn/verification/accomplishments/15003610
     date: '2025-06-03'
     awarder: AI VIET NAM
     icon: ai-vn
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied the common applications of Deep Learning in Computer Vision and Natural Language Processing, including: Object Detection, Segmentation, Machine Translation and POS Tagging.
 ---
 
 ## About Me

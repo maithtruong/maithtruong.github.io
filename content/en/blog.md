@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Blog
+      text: I enjoy writing. If any of my titles spark your interest, take a quick read and tell me what your think!
       filters:
         folders:
-          - project
+          - post
     design:
       view: article-grid
       fill_image: false
