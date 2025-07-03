@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: stone
 
 # SEO
 marketing:
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Personal blog of Truong Thi Hong Mai, a Data Scientist with interests in Data Science, Artificial Intelligence, Computer Vision and Robotics.'
+#    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Hong Mai"
 
 # Site footer
 footer:
@@ -55,6 +55,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
