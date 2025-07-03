@@ -1,5 +1,5 @@
 ---
-title: 'CV'
+title: CV
 date: 2023-10-24
 type: landing
 
@@ -28,8 +28,7 @@ sections:
         featured_only: true
         tags: CV Project
     design:
-      view: article-grid
-      columns: 2
+      view: citation
   - block: resume-skills
     content:
       title: Skills

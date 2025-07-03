@@ -30,10 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      text: |-
-        I enjoy writing. Check out my articles and tell me what you think.
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'
@@ -47,7 +43,8 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: papers
+    #id: papers
+    text: I enjoy writing. Check out my articles and tell me what you think.
     content:
       title: Featured Articles
       filters:
@@ -55,7 +52,8 @@ sections:
           - post
         featured_only: true
     design:
-      view: article-grid
+#      view: article-grid
+      view: card
       columns: 2
 #  - block: collection
 #    content:

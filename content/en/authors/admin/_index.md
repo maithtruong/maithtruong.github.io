@@ -108,7 +108,7 @@ skills:
       - name: Playing the guitar
         description: ''
         percent: 60
-        icon: assets/media/icons/guitar.svg
+        icon: guitar
 
 languages:
   - name: English
@@ -127,14 +127,14 @@ awards:
     url: https://lms.aivietnam.edu.vn/verification/accomplishments/15003610
     date: '2025-06-03'
     awarder: AI VIET NAM
-    icon: assets/media/icons/ai-vn.svg
+    icon: aivn
     summary: |
       I learned about the architecture behind Deep Learning models such as MLP, CNN, RNN, LSTM, Transformer, GAN and Diffusion Models; techniques to improve model performance such as Transfer Learning, Model Compression and Data Augmentation.
   - title: Computer Vision and Natural Language Processing
     url: https://lms.aivietnam.edu.vn/verification/accomplishments/15003610
     date: '2025-06-03'
     awarder: AI VIET NAM
-    icon: assets/media/icons/ai-vn.svg
+    icon: aivn
     summary: |
       I studied the common applications of Deep Learning in Computer Vision and Natural Language Processing, including: Object Detection, Segmentation, Machine Translation and POS Tagging.
 ---
