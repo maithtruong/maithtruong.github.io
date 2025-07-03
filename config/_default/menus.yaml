@@ -17,11 +17,11 @@ main:
 #    url: /#projects
 #    weight: 13
   - name: CV
-    url: CV/
+    url: cv/
     weight: 20
   - name: About
-    url: aboutMe/
-    weight: 20
+    url: about/
+    weight: 30
 #  - name: Projects
 #    url: projects/
 #    weight: 30
