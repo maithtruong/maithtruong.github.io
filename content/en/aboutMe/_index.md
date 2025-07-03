@@ -1,3 +1,8 @@
+---
+title: About Me
+view: date-title-summary
+---
+
 ## About Me
 
 Hi, I guess this is just a lengthier introduction of myself 😆.

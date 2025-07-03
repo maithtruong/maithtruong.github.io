@@ -30,6 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      text: |-
+        I enjoy writing. Check out my articles and tell me what you think.
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'

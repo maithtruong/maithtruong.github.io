@@ -32,11 +32,13 @@ organizations:
 profiles:
   - icon: at-symbol
     url: maithtruong@gmail.com
-    label: E-mail Me
+    label: Send me an email
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/maithtruong
+    label: Check out my GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/janette-truong/
+    label: Connect with me on LinkedIn
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 
