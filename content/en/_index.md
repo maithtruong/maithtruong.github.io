@@ -8,7 +8,10 @@ design:
   # Default section spacing
   spacing: "6rem"
   css_class: home-page
-  background: homebg.jpg
+  background:
+    image:
+      filename:
+        homebg.jpg
 
 sections:
   - block: resume-biography-3
