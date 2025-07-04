@@ -40,15 +40,36 @@ html {
 }
 
 /* All body text pure white */
-body {
-  @apply text-white;
-}
-
-/* Or if @apply doesn’t work, fallback: */
 body, p, li, span, div, h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
 }
 
 .navbar * {
   color: #041112;
+}
+/* Navbar icon color */
+.navbar a,
+.navbar button,
+.navbar svg {
+  color: white !important;
+  fill: white !important;
+}
+
+/* Make all links use the custom yellow */
+a {
+  color: rgb(255, 180, 60);
+}
+
+a:hover {
+  color: rgb(255, 210, 120);
+}
+
+/* Card background black with opacity */
+.card {
+  background-color: rgba(41, 39, 34, 0.6); /* semi-transparent black */
+  color: white; /* make text white if needed */
+}
+
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.85); /* darker on hover */
 }

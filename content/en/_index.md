@@ -47,9 +47,12 @@ sections:
 #        Please reach out to collaborate 😃
 #    design:
 #      columns: '1'
+  - block: markdown
+    content:
+      text: |-
+        I enjoy writing. Check out my articles and tell me what you think.
   - block: collection
     #id: papers
-    text: I enjoy writing. Check out my articles and tell me what you think.
     content:
       title: Featured Articles
       filters:

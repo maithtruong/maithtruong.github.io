@@ -14,6 +14,13 @@ design:
 
 # Page sections
 sections:
+  - block: resume-biography-3
+    content:
+      username: admin
+      text: ""
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
   - block: resume-experience
     content:
       username: admin
