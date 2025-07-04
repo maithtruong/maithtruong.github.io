@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Didact+Gothic&family=Diphylleia&display=swap');
+
+/* Hugo Blox color theme: YELLOW */
+:root {
+  --color-primary-800: 238 157 29; /* #EE9D1D */
+}
+
+/* For headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Didact Gothic', sans-serif !important;
+}
+
+/* For body text */
+body {
+  font-family: 'Diphylleia', serif !important;
+}
+
+/* For the page title (site title in header maybe) */
+.site-title,
+.page-title {
+  font-family: 'Great Vibes', cursive !important;
+}

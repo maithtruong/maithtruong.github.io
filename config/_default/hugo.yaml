@@ -54,9 +54,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-assets:
-  css:
-    custom:
-      - css/fonts.css
-      - css/themes/vintage.css
+####### override tailwind
+module:
+  mounts:
+    - source: assets/css/custom.css
+      target: assets/css/custom.css
