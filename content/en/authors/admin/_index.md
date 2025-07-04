@@ -111,12 +111,12 @@ skills:
         icon: guitar
 
 languages:
-  - name: English
-#    percent: 100
-  - name: German
-#    percent: 30
-  - name: Vietnamese
-#    percent: 100
+  - name: English (Proficient)
+    percent: 95
+  - name: German (Elementary)
+    percent: 30
+  - name: Vietnamese (Native)
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

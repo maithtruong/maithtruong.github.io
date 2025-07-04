@@ -7,7 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  css_class: home-page
+#  css_class: home-page
   background:
     image:
       filename:
