@@ -1,9 +1,0 @@
-/* Google Fonts Import */
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Didact+Gothic&family=Diphylleia&display=swap');
-
-:root {
-  --font-title: 'Great Vibes', cursive;
-  --font-heading: 'Didact Gothic', sans-serif;
-  --font-menu: 'Didact Gothic', sans-serif;
-  --font-body: 'Diphylleia', serif;
-}

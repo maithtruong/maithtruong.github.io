@@ -7,16 +7,10 @@
 
 /* For headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Didact Gothic', sans-serif !important;
+  font-family: 'Didact Gothic', sans-serif;
 }
 
 /* For body text */
-body {
+html {
   font-family: 'Diphylleia', serif !important;
-}
-
-/* For the page title (site title in header maybe) */
-.site-title,
-.page-title {
-  font-family: 'Great Vibes', cursive !important;
 }

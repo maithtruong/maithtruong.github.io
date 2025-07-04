@@ -6,9 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-#  color: yellow
-  custom_css:
-    - css/custom.css
+  color: custom
 
 # SEO
 marketing:
