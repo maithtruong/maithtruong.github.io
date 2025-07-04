@@ -1,4 +1,5 @@
 /* custom vintage palette */
+
 :root {
   /* Primary: Crimson */
   --color-primary-50: 253 240 213; /* pale tint */
@@ -21,4 +22,42 @@
 
   /* Light BG / Cream */
   --color-bg-50: 253 240 213;       /* #FDF0D5 */
+}
+
+/* Apply custom fonts */
+
+body {
+  font-family: var(--font-body);
+  background-image: url('/media/blogbg.jpg');
+}
+
+body.home-page {
+  background: url('/media/homebg.jpg');
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+nav, .menu, .navbar {
+  font-family: var(--font-menu);
+}
+
+.site-title, .site-logo-text {
+  font-family: var(--font-title);
+}
+
+/* Authors widget background → transparent */
+.author-profile {
+  background: none !important;
+}
+
+/* Remove light/dark toggle button (hidden) */
+#theme-toggle, .theme-toggle {
+  display: none !important;
+}
+
+/* Force dark mode look — or just your custom styling */
+:root {
+  color-scheme: dark;
 }

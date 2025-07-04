@@ -7,6 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+  css_class: home-page
 
 sections:
   - block: resume-biography-3
@@ -20,16 +21,16 @@ sections:
 #        url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: contour.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+#      background:
+#        color: black
+#        image:
+#          # Add your image background to `assets/media/`.
+#          filename: contour.svg
+#          filters:
+#            brightness: 1.0
+#          size: cover
+#          position: center
+#          parallax: false
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'
