@@ -36,6 +36,12 @@ header:
     show_theme_chooser: false
     logo:
       text: "Hong Mai"
+    button:
+      enable: true
+      text: "Contact"
+      url: "maithtruong@gmail.com"
+    highlight_active_link: true
+    show_translations: true
 
 # Site footer
 footer:

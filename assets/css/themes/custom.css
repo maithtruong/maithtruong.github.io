@@ -17,7 +17,7 @@
 
 /* For headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Diphylleia', serif;
+  font-family: 'Diphylleia', serif !important;
 }
 
 /* For body text
@@ -40,4 +40,13 @@ html {
 /* All body text pure white */
 body, p, li, span, div, h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
+}
+
+body {
+    background-image: url('/media/defaultbg.jpg');
+/*  background-color: black ;*/
+}
+
+.navbar {
+  background-color: #000 !important;
 }

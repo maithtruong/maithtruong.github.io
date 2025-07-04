@@ -11,7 +11,7 @@ design:
   background:
     image:
       filename:
-        homebg.jpg
+        defaultbg.jpg
 
 sections:
   - block: resume-biography-3
